@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,developer.android.com
+  - DOMAIN-SUFFIX,developer.android.google.cn
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,kdenlive.org
   - DOMAIN-SUFFIX,shotcut.org
