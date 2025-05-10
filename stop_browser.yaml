@@ -1,0 +1,4 @@
+rules:
+  - 'PROCESS-NAME,chrome.exe,REJECT'
+  - 'PROCESS-NAME,msedge.exe,REJECT'
+  - 'PROCESS-NAME,firefox.exe,REJECT'
