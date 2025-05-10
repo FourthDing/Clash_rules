@@ -1,6 +1,6 @@
-rules:
-  - 'PROCESS-NAME,sshd.exe,DIRECT'
-  - 'PROCESS-NAME,syncthing.exe,DIRECT'
-  - 'PROCESS-NAME,WeMeetApp.exe,DIRECT'
-  - 'PROCESS-NAME,QQ.exe,DIRECT'
-  - 'PROCESS-NAME,WeChat.exe,DIRECT'
+payload:
+  - PROCESS-NAME,sshd.exe
+  - PROCESS-NAME,syncthing.exe
+  - PROCESS-NAME,WeMeetApp.exe
+  - PROCESS-NAME,QQ.exe
+  - PROCESS-NAME,WeChat.exe

@@ -1,4 +1,4 @@
-rules:
-  - "DOMAIN-SUFFIX,github.com,DIRECT"
-  - "DOMAIN-SUFFIX,githubusercontent.com,DIRECT"
-  - "DOMAIN-SUFFIX,sourceforge.net,DIRECT"
+payload:
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,sourceforge.net

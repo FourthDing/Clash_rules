@@ -1,14 +1,14 @@
-rules:
-  - 'DOMAIN-SUFFIX,bing.com,DIRECT'
-  - 'DOMAIN-SUFFIX,kdenlive.org,DIRECT'
-  - 'DOMAIN-SUFFIX,shotcut.org,DIRECT'
-  - 'DOMAIN-SUFFIX,inkscape.org,DIRECT'
-  - 'DOMAIN-SUFFIX,docs.godotengine.org,DIRECT'
-  - 'DOMAIN-SUFFIX,libreoffice.org,DIRECT'
-  - 'DOMAIN-SUFFIX,blender.org,DIRECT'
-  - 'DOMAIN-SUFFIX,freecad.org,DIRECT'
-  - 'DOMAIN-SUFFIX,cloud.tencent.com,DIRECT'
-  - 'DOMAIN-SUFFIX,aliyun.com,DIRECT'
-  - 'DOMAIN-SUFFIX,juejin.cn,DIRECT'
-  - 'DOMAIN-SUFFIX,segmentfault.com,DIRECT'
-  - 'DOMAIN-SUFFIX,csdn.net,DIRECT'
+payload:
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,kdenlive.org
+  - DOMAIN-SUFFIX,shotcut.org
+  - DOMAIN-SUFFIX,inkscape.org
+  - DOMAIN-SUFFIX,docs.godotengine.org
+  - DOMAIN-SUFFIX,libreoffice.org
+  - DOMAIN-SUFFIX,blender.org
+  - DOMAIN-SUFFIX,freecad.org
+  - DOMAIN-SUFFIX,cloud.tencent.com
+  - OMAIN-SUFFIX,aliyun.com
+  - DOMAIN-SUFFIX,juejin.cn
+  - DOMAIN-SUFFIX,segmentfault.com
+  - DOMAIN-SUFFIX,csdn.net

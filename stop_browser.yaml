@@ -1,4 +1,4 @@
-rules:
-  - 'PROCESS-NAME,chrome.exe,REJECT'
-  - 'PROCESS-NAME,msedge.exe,REJECT'
-  - 'PROCESS-NAME,firefox.exe,REJECT'
+payload:
+  - PROCESS-NAME,chrome.exe
+  - PROCESS-NAME,msedge.exe
+  - PROCESS-NAME,firefox.exe
