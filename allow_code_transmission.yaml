@@ -1,3 +1,4 @@
 rules:
-  - 'DOMAIN-SUFFIX,github.com,DIRECT'
-  - 'DOMAIN-SUFFIX,sourceforge.net,DIRECT'
+  - "DOMAIN-SUFFIX,github.com,DIRECT"
+  - "DOMAIN-SUFFIX,githubusercontent.com,DIRECT"
+  - "DOMAIN-SUFFIX,sourceforge.net,DIRECT"
