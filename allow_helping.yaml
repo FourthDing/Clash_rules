@@ -10,7 +10,9 @@ payload:
   - DOMAIN-SUFFIX,blender.org
   - DOMAIN-SUFFIX,freecad.org
   - DOMAIN-SUFFIX,cloud.tencent.com
-  - OMAIN-SUFFIX,aliyun.com
+  - DOMAIN-SUFFIX,aliyun.com
   - DOMAIN-SUFFIX,juejin.cn
   - DOMAIN-SUFFIX,segmentfault.com
   - DOMAIN-SUFFIX,csdn.net
+  - DOMAIN-SUFFIX,cnblogs.com
+  - DOMAIN-SUFFIX,zhihu.com
